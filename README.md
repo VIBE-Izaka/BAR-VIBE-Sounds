@@ -28,8 +28,6 @@ The widget listens for vote start messages and provides an immediate audio cue s
 
 GNU GPL v3  
 
----
-
 ## Feedback
 
 Suggestions and feature requests are welcome.  
